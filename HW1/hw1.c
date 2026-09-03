@@ -15,7 +15,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// Take a name as a string input and output Hello with the name
+// Take a name as a string (character array) input and output Hello with the name
 void PrintHello(char name[]) {
 	printf("Howdy, %s!\n", name);
 }
