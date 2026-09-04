@@ -16,4 +16,12 @@ Homework 1 goes over the basics of writing a C program including creating a func
 
 ## HW2
 
-Not assigned yet.
+Homework 2 goes over the fundamentals of writing functions to calculate values, using arithmetic operators, assigning values to variables, and writing longer `printf()` statements.
+Specifically, Homework 2 covers calculating the following values for a 555 timer given the resistance values for the Resistors A and B, and the capacitance value for the Capacitor C of the 555:
+- Frequency: f = 1/T = 1.44/(C*(Ra + 2Rb))
+- Duty Cycle: D = Rb/(Ra + 2Rb)
+
+<br>
+
+- Inputs: none
+- Outputs: The testing input values for Ra, Rb, C and the corresponding output frequencies and duty cycles of the 555 timer as strings in the console
