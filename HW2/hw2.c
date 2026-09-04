@@ -39,10 +39,10 @@ int main(void) {
 
     double Ra = 4.7e3;
     double Rb = 10e3;
-    double C = 1e-6;
+    double  C = 1e-6;
 
     // Test each function above
-    freq = frequency(Ra, Rb, C);
+    freq  = frequency(Ra, Rb, C);
     dutyC = dutyCycle(Ra, Rb);
     
     printf("Ra = %.1e\tRb = %.1e\tC = %.1e\tfrequency = %.1f\tduty cycle = %.2f\n", Ra, Rb, C, freq, dutyC);
@@ -50,9 +50,9 @@ int main(void) {
     // Test again with new values. Don't declare the variables twice.
     Ra = 10;
     Rb = 100;
-    C = 1e-5;
+     C = 1e-5;
 
-    freq = frequency(Ra, Rb, C);
+    freq  = frequency(Ra, Rb, C);
     dutyC = dutyCycle(Ra, Rb);
 
     printf("Ra = %.1e\tRb = %.1e\tC = %.1e\tfrequency = %.1f\tduty cycle = %.2f\n", Ra, Rb, C, freq, dutyC);
