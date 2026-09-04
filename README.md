@@ -25,3 +25,7 @@ Specifically, Homework 2 covers calculating the following values for a 555 timer
 
 - Inputs: none
 - Outputs: The testing input values for Ra, Rb, C and the corresponding output frequencies and duty cycles of the 555 timer as strings in the console
+
+## HW3
+
+Homework 3 has not been posted yet.
