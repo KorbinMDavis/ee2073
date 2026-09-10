@@ -1,6 +1,9 @@
 # EE2073 - Introduction to Computer Programming for Engineers
 ### FA2026
 
+![Gol D. Roger go find my treasure](https://media.tenor.com/JdWbOYAqHHsAAAAM/one-piece-gold-roger.gif)
+
+
 Introduction to Computer Programming for Engineers is an introductory C course which focuses on applications in Electrical and Computer Engineering. It is taught by Mr. Bob Applione at UT San Antonio.
 
 ## HW Template
